@@ -1,6 +1,6 @@
 require 'net/ssh'
 
-class Slippers
+class FlipFlops
 
 	@loggedin = false
 
