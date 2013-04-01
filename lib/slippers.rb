@@ -4,7 +4,7 @@ class Slippers
 
 	@loggedin = false
 
-	def setRepo(repo)
+	def set_repo(repo)
 		@repo = repo
 		self
 	end
